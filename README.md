@@ -18,5 +18,5 @@ I performed confidently and creatively while designing my logo in Figma. From th
 
 ## OUTPUT
 
-
+<img width="1059" height="541" alt="Image" src="https://github.com/user-attachments/assets/6ce41a5a-4db7-4f34-bd56-d1a711082e99" />
 
